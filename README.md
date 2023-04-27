@@ -6,5 +6,6 @@ This is a repository where the code and notebooks for machine learning algorithm
 ## Articles
 | Article | Code |
 |:---:|:--------------------------:|
-| [Linear Regression from Scratch](https://medium.com/@slavahead/linear-regression-from-scratch-e4db8c6d81db) | [linear_regression.ipynb](https://github.com/slavafive/ML-medium/blob/master/linear_regression.ipynb)
-| [Quantile Loss and Quantile Regression](https://medium.com/@slavahead/quantile-loss-and-quantile-regression-b0689c13f54d) | [quantile_regression.ipynb](https://github.com/slavafive/ML-medium/blob/master/quantile_regression.ipynb) |
+| [Linear Regression from Scratch](https://medium.com/@slavahead/linear-regression-from-scratch-e4db8c6d81db) | [linear_regression.ipynb](linear_regression.ipynb)
+| [Quantile Loss and Quantile Regression](https://medium.com/@slavahead/quantile-loss-and-quantile-regression-b0689c13f54d) | [quantile_regression.ipynb](quantile_regression.ipynb) |
+| [Similarity Search. Part 1. kNN & Inverted File Index](https://medium.com/@slavahead/similarity-search-part-1-7cab80cc0e79) | [FAISS.ipynb](similarity_search/FAISS.ipynb) |
