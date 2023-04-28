@@ -8,4 +8,4 @@ This is a repository where the code and notebooks for machine learning algorithm
 |:---:|:--------------------------:|
 | [Linear Regression from Scratch](https://medium.com/@slavahead/linear-regression-from-scratch-e4db8c6d81db) | [linear_regression.ipynb](linear_regression.ipynb)
 | [Quantile Loss and Quantile Regression](https://medium.com/@slavahead/quantile-loss-and-quantile-regression-b0689c13f54d) | [quantile_regression.ipynb](quantile_regression.ipynb) |
-| [Similarity Search: kNN & Inverted File Index](https://medium.com/@slavahead/similarity-search-knn-inverted-file-index-b2a1a6397701) | [FAISS.ipynb](similarity_search/FAISS.ipynb) |
+| [Similarity Search: kNN & Inverted File Index](https://medium.com/@slavahead/similarity-search-knn-inverted-file-index-7cab80cc0e79) | [FAISS.ipynb](similarity_search/FAISS.ipynb) |
