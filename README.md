@@ -1,5 +1,5 @@
 # ML-medium
-This is a repository where the code and notebooks for machine learning algorithms are available from my [Medium](https://medium.com/@slavahead) blog.
+This repository contains code and reproducible notebooks based on my articles in the [Data Science blog](https://medium.com/@slavahead) on Medium.
 
 <img width="1019" alt="image" src="https://user-images.githubusercontent.com/42523164/197012596-319ae220-0b24-4d68-a84b-cdddb2291fe8.png">
 
