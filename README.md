@@ -10,4 +10,4 @@ This is a repository where the code and notebooks for machine learning algorithm
 |2| [Quantile Loss and Quantile Regression](https://medium.com/@slavahead/quantile-loss-and-quantile-regression-b0689c13f54d) | [quantile_regression.ipynb](quantile_regression.ipynb) |
 |3| [Similarity Search: kNN & Inverted File Index](https://medium.com/@slavahead/similarity-search-knn-inverted-file-index-7cab80cc0e79) | [FAISS.ipynb](similarity_search/FAISS.ipynb) |
 |4| [Demystifying Confidence Intervals with Examples](https://medium.com/towards-data-science/demystifying-confidence-intervals-with-examples-7bdef30f7b0a) | [confidence_intervals.ipynb](confidence_intervals.ipynb) |
-|5| [Monte Carlo Methods](#) & [Monte Carlo Control](#) | [monte_carlo_blackjack.ipynb](#) |
+|5| [Monte Carlo Methods](#) & [Monte Carlo Control](#) | [monte_carlo_blackjack.ipynb](monte_carlo_blackjack.ipynb) |
