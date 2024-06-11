@@ -10,4 +10,4 @@ This repository contains code and reproducible notebooks based on my articles in
 |2| [Quantile Loss and Quantile Regression](https://medium.com/@slavahead/quantile-loss-and-quantile-regression-b0689c13f54d) | [quantile_regression.ipynb](quantile_regression.ipynb) |
 |3| [Similarity Search: kNN & Inverted File Index](https://medium.com/@slavahead/similarity-search-knn-inverted-file-index-7cab80cc0e79) | [FAISS.ipynb](similarity_search/FAISS.ipynb) |
 |4| [Demystifying Confidence Intervals with Examples](https://medium.com/towards-data-science/demystifying-confidence-intervals-with-examples-7bdef30f7b0a) | [confidence_intervals.ipynb](confidence_intervals.ipynb) |
-|5| [Monte Carlo Methods](#) & [Monte Carlo Control](#) | [monte_carlo_blackjack.ipynb](monte_carlo/blackjack.ipynb) |
+|5| [Monte Carlo Methods](https://medium.com/towards-data-science/reinforcement-learning-part-3-monte-carlo-methods-7ce2828a1fdb) & [Monte Carlo Control](https://medium.com/towards-data-science/reinforcement-learning-part-4-monte-carlo-control-ae0a7f29920b) | [monte_carlo_blackjack.ipynb](monte_carlo/blackjack.ipynb) |
